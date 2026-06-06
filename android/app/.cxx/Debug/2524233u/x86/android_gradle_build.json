@@ -1,0 +1,123 @@
+{
+  "buildFiles": [
+    "/Users/anju/lab/resell/node_modules/@react-native-async-storage/async-storage/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/anju/lab/resell/node_modules/@react-native-community/geolocation/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/anju/lab/resell/node_modules/@react-native-community/slider/android/src/main/jni/CMakeLists.txt",
+    "/Users/anju/lab/resell/node_modules/react-native-config/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/anju/lab/resell/node_modules/react-native-image-picker/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/anju/lab/resell/node_modules/react-native-keychain/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/anju/lab/resell/node_modules/react-native-maps/android/src/main/jni/CMakeLists.txt",
+    "/Users/anju/lab/resell/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt",
+    "/Users/anju/lab/resell/node_modules/react-native-screens/android/src/main/jni/CMakeLists.txt",
+    "/Users/anju/lab/resell/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/anju/lab/resell/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/anju/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/anju/lab/resell/android/app/.cxx/Debug/2524233u/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/anju/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/anju/lab/resell/android/app/.cxx/Debug/2524233u/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "appmodules",
+      "output": "/Users/anju/lab/resell/android/app/build/intermediates/cxx/Debug/2524233u/obj/x86/libappmodules.so",
+      "runtimeFiles": [
+        "/Users/anju/lab/resell/android/app/build/intermediates/cxx/Debug/2524233u/obj/x86/libreact_codegen_RNCSlider.so",
+        "/Users/anju/lab/resell/android/app/build/intermediates/cxx/Debug/2524233u/obj/x86/libreact_codegen_safeareacontext.so",
+        "/Users/anju/lab/resell/android/app/build/intermediates/cxx/Debug/2524233u/obj/x86/libreact_codegen_rnscreens.so",
+        "/Users/anju/.gradle/caches/9.3.1/transforms/74c14f8430195739d2e6c46957fa86e0/transformed/fbjni-0.7.0/prefab/modules/fbjni/libs/android.x86/libfbjni.so",
+        "/Users/anju/.gradle/caches/9.3.1/transforms/5610d76b85abf362a180fe967080549a/transformed/react-android-0.85.2-debug/prefab/modules/jsi/libs/android.x86/libjsi.so",
+        "/Users/anju/.gradle/caches/9.3.1/transforms/5610d76b85abf362a180fe967080549a/transformed/react-android-0.85.2-debug/prefab/modules/reactnative/libs/android.x86/libreactnative.so"
+      ]
+    },
+    "react_codegen_RNCConfigSpec::@89f1b79ed4954e2f2cff": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_RNCConfigSpec"
+    },
+    "react_codegen_RNCGeolocationSpec::@1b959fcb56e23f7716ba": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_RNCGeolocationSpec"
+    },
+    "react_codegen_RNCSlider::@4898bc4726ecf1751b6a": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_RNCSlider",
+      "output": "/Users/anju/lab/resell/android/app/build/intermediates/cxx/Debug/2524233u/obj/x86/libreact_codegen_RNCSlider.so",
+      "runtimeFiles": [
+        "/Users/anju/.gradle/caches/9.3.1/transforms/74c14f8430195739d2e6c46957fa86e0/transformed/fbjni-0.7.0/prefab/modules/fbjni/libs/android.x86/libfbjni.so",
+        "/Users/anju/.gradle/caches/9.3.1/transforms/5610d76b85abf362a180fe967080549a/transformed/react-android-0.85.2-debug/prefab/modules/jsi/libs/android.x86/libjsi.so",
+        "/Users/anju/.gradle/caches/9.3.1/transforms/5610d76b85abf362a180fe967080549a/transformed/react-android-0.85.2-debug/prefab/modules/reactnative/libs/android.x86/libreactnative.so"
+      ]
+    },
+    "react_codegen_RNImagePickerSpec::@f66ee9a2efecfb28bee4": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_RNImagePickerSpec"
+    },
+    "react_codegen_RNKeychainSpec::@f9a2cb36ebca2de4baf9": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_RNKeychainSpec"
+    },
+    "react_codegen_RNMapsSpecs::@5748abef1962d24942ec": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_RNMapsSpecs"
+    },
+    "react_codegen_RNVectorIconsSpec::@479809fae146501fd34d": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_RNVectorIconsSpec"
+    },
+    "react_codegen_rnasyncstorage::@1596841e19ec5b9eeffe": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_rnasyncstorage"
+    },
+    "react_codegen_rnscreens::@25bcbd507e98d3a854ad": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_rnscreens",
+      "output": "/Users/anju/lab/resell/android/app/build/intermediates/cxx/Debug/2524233u/obj/x86/libreact_codegen_rnscreens.so",
+      "runtimeFiles": [
+        "/Users/anju/.gradle/caches/9.3.1/transforms/5610d76b85abf362a180fe967080549a/transformed/react-android-0.85.2-debug/prefab/modules/reactnative/libs/android.x86/libreactnative.so",
+        "/Users/anju/.gradle/caches/9.3.1/transforms/5610d76b85abf362a180fe967080549a/transformed/react-android-0.85.2-debug/prefab/modules/jsi/libs/android.x86/libjsi.so",
+        "/Users/anju/.gradle/caches/9.3.1/transforms/74c14f8430195739d2e6c46957fa86e0/transformed/fbjni-0.7.0/prefab/modules/fbjni/libs/android.x86/libfbjni.so"
+      ]
+    },
+    "react_codegen_safeareacontext::@7984cd80db47aa7b952a": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "react_codegen_safeareacontext",
+      "output": "/Users/anju/lab/resell/android/app/build/intermediates/cxx/Debug/2524233u/obj/x86/libreact_codegen_safeareacontext.so",
+      "runtimeFiles": [
+        "/Users/anju/.gradle/caches/9.3.1/transforms/74c14f8430195739d2e6c46957fa86e0/transformed/fbjni-0.7.0/prefab/modules/fbjni/libs/android.x86/libfbjni.so",
+        "/Users/anju/.gradle/caches/9.3.1/transforms/5610d76b85abf362a180fe967080549a/transformed/react-android-0.85.2-debug/prefab/modules/jsi/libs/android.x86/libjsi.so",
+        "/Users/anju/.gradle/caches/9.3.1/transforms/5610d76b85abf362a180fe967080549a/transformed/react-android-0.85.2-debug/prefab/modules/reactnative/libs/android.x86/libreactnative.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/anju/Library/Android/sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/anju/Library/Android/sdk/ndk/27.1.12297006/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

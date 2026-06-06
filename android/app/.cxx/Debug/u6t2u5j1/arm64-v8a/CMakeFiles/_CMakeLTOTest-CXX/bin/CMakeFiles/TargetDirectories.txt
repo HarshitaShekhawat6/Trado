@@ -1,0 +1,4 @@
+/Users/anju/Downloads/App/App/android/app/.cxx/Debug/u6t2u5j1/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+/Users/anju/Downloads/App/App/android/app/.cxx/Debug/u6t2u5j1/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/Users/anju/Downloads/App/App/android/app/.cxx/Debug/u6t2u5j1/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/Users/anju/Downloads/App/App/android/app/.cxx/Debug/u6t2u5j1/arm64-v8a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir

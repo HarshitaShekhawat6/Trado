@@ -1,0 +1,1 @@
+/Users/anju/Downloads/App/App/android/app/build/intermediates/cxx/RelWithDebInfo/4j5p6g71/obj/arm64-v8a

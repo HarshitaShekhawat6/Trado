@@ -1,0 +1,4 @@
+/Users/anju/lab/resell/android/app/.cxx/RelWithDebInfo/5g2t2h49/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+/Users/anju/lab/resell/android/app/.cxx/RelWithDebInfo/5g2t2h49/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+/Users/anju/lab/resell/android/app/.cxx/RelWithDebInfo/5g2t2h49/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+/Users/anju/lab/resell/android/app/.cxx/RelWithDebInfo/5g2t2h49/armeabi-v7a/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir

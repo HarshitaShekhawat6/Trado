@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "918706967651",
+    "project_id": "olxclone-ad4ef",
+    "storage_bucket": "olxclone-ad4ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918706967651:android:8d5bb3d0d79083463b5456",
+        "android_client_info": {
+          "package_name": "com.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJBGsnxeqYVGRFmDsKIIOuN4TZbxy5gxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
