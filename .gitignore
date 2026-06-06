@@ -9,3 +9,4 @@ android/app/build/
 .DS_Store
 *.keystore
 !debug.keystore
+android/app/.cxx/
